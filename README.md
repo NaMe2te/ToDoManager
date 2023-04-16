@@ -2,7 +2,7 @@
 ---
 Данный проект представляет из себя Full-Stack Веб приложение
 
-##Использованные библиотеки и технологии
+## Использованные библиотеки и технологии
 ---
 ![](https://img.shields.io/badge/ASP.NET%20Core%206%20-blueviolet?style=for-the-badge&amp;logo=dotnet) ![](https://img.shields.io/badge/-Postman-orange?style=for-the-badge&logo=postman) ![](https://img.shields.io/badge/-MySQL-lightgrey?style=for-the-badge&logo=mysql)
 
