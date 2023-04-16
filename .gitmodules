@@ -1,0 +1,6 @@
+[submodule "ToDoManager.Backend"]
+	path = ToDoManager.Backend
+	url = https://github.com/NaMe2te/ToDoManager.Backend
+[submodule "ToDoManager.Frontend"]
+	path = ToDoManager.Frontend
+	url = https://github.com/NaMe2te/ToDoManager.Frontend
